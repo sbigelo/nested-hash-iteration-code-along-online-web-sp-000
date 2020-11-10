@@ -21,7 +21,7 @@ contacts.each do |key, value|
       if key1 == :favorite_ice_cream_flavors
         data.delete_if {|ice| ice == "strawberry"
       
-    end
+    
   end
     end
   end
